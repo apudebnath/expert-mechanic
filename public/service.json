@@ -1,0 +1,65 @@
+[
+    {
+      "id": 101,
+      "name": "Transmission Repair",
+      "price": 221,
+      "image": "https://i.ibb.co/jGPDYk4/service1.jpg",
+      "description": "Although the tire is flat and must be brought to a tire repair shop, like Sullivan Tire and Auto Service, for an inspection, the tire may not necessarily need to be replaced. Depending on where the puncture is located along with the severity of the damage, the tire will either only need a simple repair or will be replaced. "
+    },
+    {
+      "id": 102,
+      "name": "Car Washing",
+      "price": 366,
+      "image": "https://i.ibb.co/4gMtYCs/service7.jpg",
+      "description": "Although the tire is flat and must be brought to a tire repair shop, like Sullivan Tire and Auto Service, for an inspection, the tire may not necessarily need to be replaced. Depending on where the puncture is located along with the severity of the damage, the tire will either only need a simple repair or will be replaced. "
+    },
+    {
+      "id": 103,
+      "name": "Brake Repair",
+      "price": 532,
+      "image": "https://i.ibb.co/Zh16MM2/service3.jpg",
+      "description": "Although the tire is flat and must be brought to a tire repair shop, like Sullivan Tire and Auto Service, for an inspection, the tire may not necessarily need to be replaced. Depending on where the puncture is located along with the severity of the damage, the tire will either only need a simple repair or will be replaced. "
+    },
+    {
+      "id": 104,
+      "name": "Oil Change",
+      "price": 352,
+      "image": "https://i.ibb.co/mXpX0sB/service4.jpg",
+      "description": "Although the tire is flat and must be brought to a tire repair shop, like Sullivan Tire and Auto Service, for an inspection, the tire may not necessarily need to be replaced. Depending on where the puncture is located along with the severity of the damage, the tire will either only need a simple repair or will be replaced. "
+    },
+    {
+      "id": 105,
+      "name": "Engine Repair",
+      "price": 654,
+      "image": "https://i.ibb.co/3CHcg0D/service5.jpg",
+      "description": "Although the tire is flat and must be brought to a tire repair shop, like Sullivan Tire and Auto Service, for an inspection, the tire may not necessarily need to be replaced. Depending on where the puncture is located along with the severity of the damage, the tire will either only need a simple repair or will be replaced. "
+    },
+    {
+      "id": 106,
+      "name": "Auto Detailing",
+      "price": 532,
+      "image": "https://i.ibb.co/DDpynTx/service6.jpg",
+      "description": "Although the tire is flat and must be brought to a tire repair shop, like Sullivan Tire and Auto Service, for an inspection, the tire may not necessarily need to be replaced. Depending on where the puncture is located along with the severity of the damage, the tire will either only need a simple repair or will be replaced. "
+    },
+    {
+      "id": 107,
+      "name": "Body Work / Painting",
+      "price": 423,
+      "image": "https://i.ibb.co/RcmnmqP/service2.jpg",
+      "description": "Although the tire is flat and must be brought to a tire repair shop, like Sullivan Tire and Auto Service, for an inspection, the tire may not necessarily need to be replaced. Depending on where the puncture is located along with the severity of the damage, the tire will either only need a simple repair or will be replaced. "
+    },
+    {
+      "id": 108,
+      "name": "Tair Repair",
+      "price": 654,
+      "image": "https://i.ibb.co/2cf96sp/service8.jpg",
+      "description": "Although the tire is flat and must be brought to a tire repair shop, like Sullivan Tire and Auto Service, for an inspection, the tire may not necessarily need to be replaced. Depending on where the puncture is located along with the severity of the damage, the tire will either only need a simple repair or will be replaced. "
+    },
+    {
+      "id": 109,
+      "name": "Radiator Services",
+      "price": 210,
+      "image": "https://i.ibb.co/9GzxZ3v/service9.jpg",
+      "description": "Although the tire is flat and must be brought to a tire repair shop, like Sullivan Tire and Auto Service, for an inspection, the tire may not necessarily need to be replaced. Depending on where the puncture is located along with the severity of the damage, the tire will either only need a simple repair or will be replaced. "
+    }
+  ]
